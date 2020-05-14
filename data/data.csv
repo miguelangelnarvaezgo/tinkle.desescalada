@@ -1,0 +1,64 @@
+ID;toponimo;comunidad_autonoma;fase
+is_hierro;El Hierro;santa_cruz_de_tenerife;1
+is_grancanaria;Grancanaria;santa_cruz_de_tenerife;1
+is_gomera;La Gomera;santa_cruz_de_tenerife;1
+is_tenerife;Tenerife;santa_cruz_de_tenerife;1
+is_fuerteventura;Fuerteventura;santa_cruz_de_tenerife;1
+is_la_palma;La Palma;santa_cruz_de_tenerife;1
+is_lanzarote;Lanzarote;las_palmas;1
+is_graciosa;La Graciosa;las_palmas;1
+is_alegranza;Alegranza;las_palmas;1
+pr_melilla;Melilla;melilla;1
+pr_ceuta;Ceuta;ceuta;1
+pr_cadiz;Cadiz;andalucia;1
+pr_malaga;Malaga;andalucia;0
+pr_almeria;Almeria;andalucia;1
+pr_granada;Granada;andalucia;0
+pr_sevilla;Sevilla;andalucia;1
+pr_huelva;Huelva;andalucia;1
+pr_jaen;Jaen;andalucia;1
+pr_cordoba;Cordoba;andalucia;1
+pr_badajoz;Badajoz;extremadura;1
+pr_caceres;Caceres;extremadura;1
+pr_albacete;Albacete;la_mancha;0
+pr_ciudad_real;Ciudad Real;la_mancha;0
+pr_toledo;Toledo;la_mancha;0
+pr_cuenca;Cuenca;la_mancha;1
+pr_guadalajara;Guadalajara;la_mancha;1
+pr_madrid;Madrid;madrid;0
+pr_murcia;Murcia;murcia;1
+pr_alicante;Alicante;valencia;1
+pr_valencia;Valencia;valencia;0
+pr_castellon;Castellón;valencia;0
+is_cabrera;Cabrera;is_baleares;1
+is_formentera;Formentera;is_baleares;1
+is_ibiza;Ibiza;is_baleares;1
+is_mallorca;Mallorca;is_baleares;1
+is_menorca;Menorca;is_baleares;1
+pr_girona;Girona;catalunya;0
+pr_tarragona;Tarragona;catalunya;1
+pr_barcelona;Barcelona;catalunya;0
+pr_lleida;Lleida;catalunya;0
+pr_teruel;Teruel;aragon;1
+pr_zaragoza;Zaragoza;aragon;1
+pr_huesca;Huesca;aragon;1
+pr_avila;Ávila;castilla_y_leon;0
+pr_salamanca;Salamanca;castilla_y_leon;0
+pr_segovia;Segovia;castilla_y_leon;1
+pr_soria;Soria;castilla_y_leon;0
+pr_zamora;Zamora;castilla_y_leon;1
+pr_valladolid;Valladolid;castilla_y_leon;0
+pr_burgos;Burgos;castilla_y_leon;0
+pr_palencia;Palencia;castilla_y_leon;0
+pr_leon;Leon;castilla_y_leon;0
+pr_la_rioja;La Rioja;la_rioja;1
+pr_navarra;Navarra;Navarra;1
+pr_alava;Álava;pais_vasco;1
+pr_guipuzcoa;Guipuzcoa;pais_vasco;1
+pr_vizcaya;Bizcaya;pais_vasco;1
+pr_cantabria;Cantabria; cantabria;1
+pr_asturias;Asturias;asturias;1
+pr_pontevedra;Pontevedra;galicia;1
+pr_ourense;Ourense;galicia;1
+pr_lugo;Lugo;galicia;1
+pr_la_coruña;La Coruña;galicia;1
